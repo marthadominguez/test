@@ -1,0 +1,121 @@
+[
+    {
+      "titulo": "Adquisición de datos",
+      "subtitulo": "¿No cuentas con los datos necesarios para desarrollar soluciones que impulsen tu negocio?",
+      "descripcion": "Nuestros servicios de adquisición de datos te permitirán capturar grandes volúmenes de información desde fuentes heterogéneas, entregándote información lista para su análisis con la mayor eficiencia en costos.",
+      "span": "Tenemos 2 soluciones que pueden ayudarte:",
+      "servicios": [
+        {
+          "textoNegrita": "Sistemas de web scraping",
+          "textoCompleto": " que te permitirán recolectar información específica de sitios web de manera recurrente.",
+          "serviciosImagen": "webScraping.svg"
+        },
+        {
+          "textoNegrita": "Integración con API's",
+          "textoCompleto": " para que puedas extraer los datos que necesites de aplicaciones y sistemas.",
+          "serviciosImagen": "APIs.svg"
+        }
+      ],
+      "image": "adquisicion.svg",
+      "link": "https://datiasolutions.com/adquisicion-de-datos"
+    },
+    {
+      "titulo": "Limpieza y etiquetado",
+      "subtitulo": "¿Ya cuentas con los datos necesarios bien almacenados pero estos no se encuentran estandarizados?",
+      "descripcion": "Con nuestros servicios de limpieza y estandarización de datos podrás ahorrar tiempo con automatizaciones, así como facilitar la toma de decisiones y reducir costos al evitar problemas como la duplicidad, los missing values o las anomalias.",
+      "span": "Tenemos 2 soluciones que pueden ayudarte:",
+      "servicios": [
+        {
+          "textoNegrita": "Limpieza de datos",
+          "textoCompleto": " para que puedas comenzar a generar información valiosa gracias a reportes o analítica avanzada.",
+          "serviciosImagen": "wrangling.svg"
+        },
+      {
+        "textoNegrita": "Etiquetado de datos",
+        "textoCompleto": " para que puedas comenzar a generar información valiosa gracias a reportes o analítica avanzada.",
+        "serviciosImagen": "databaseIcon.svg"
+      }],
+      "image": "limpieza.svg",
+      "link": "https://datiasolutions.com/limpieza-y-etiquetado"
+    },
+    {
+      "titulo": "Almacenamiento de datos",
+      "subtitulo": "¿Necesitas almacenar tus datos de forma segura y escalable?",
+      "descripcion": "Te ofrecemos soluciones de almacenamiento seguras, confiables y escalables que te permitirán guardar y consultar los datos necesarios para tus soluciones de forma rápida y eficiente evitando sobre costos.",
+      "span": "Tenemos 2 soluciones que pueden ayudarte:",
+      "servicios": [
+        {
+          "textoNegrita": "Almacenamiento en la nube",
+          "textoCompleto": " para que puedas acceder a tus datos desde cualquier lugar.",
+          "serviciosImagen": "cloud.svg"
+        },
+        {
+          "textoNegrita": "Almacenamiento en servidores",
+          "textoCompleto": " donde tendrás un control total sobre tus datos.",
+          "serviciosImagen": "server.svg"
+        }
+      ],
+      "image": "almacenamiento.svg",
+      "link": "https://datiasolutions.com/almacenamiento"
+    },
+    {
+      "titulo": "Análisis y visualización",
+      "subtitulo": "¿Quieres comenzar a entender tus datos y extraer información útil de ellos?",
+      "descripcion": "Nuestros expertos en inteligencia de negocio te ayudarán a diseñar y desplegar sistemas de visualización que te permitirán extraer información de tus datos y tomar decisiones bien informadas.",
+      "span": "Tenemos 2 soluciones que pueden ayudarte:",
+      "servicios": [
+        {
+          "textoNegrita": "Análisis de datos",
+          "textoCompleto": " ya existentes, con lo cual podrás entender tus nuevos retos los cuales no son cubiertos por tus soluciones actuales.",
+          "serviciosImagen": "dashboardAct.svg"
+        },
+        {
+          "textoNegrita": "Visualización de datos",
+          "textoCompleto": " que te permitirán visualizar y entender tus datos según tus necesidades para así tomar decisiones informadas.",
+          "serviciosImagen": "dashboardCreation.svg"
+        }
+      ],
+      "image": "visualizacion.svg",
+      "link": "https://datiasolutions.com/visualizacion"
+    },
+    {
+      "titulo": "Inteligencia artificial",
+      "subtitulo": "¿Cuentas con todo lo necesario para comenzar a desarrollar tus soluciones de Inteligencia artificial?",
+      "descripcion": "Te acompañaremos desde la ideación y factibilidad, hasta la puesta en producción y monitoreo de tus soluciones de inteligencia artificial, de modo que puedas explotar todo el potencial de tus datos.",
+      "span": "Tenemos 2 soluciones que pueden ayudarte:",
+      "servicios": [
+        {
+          "textoNegrita": "Roadmap de inteligencia artificial",
+          "textoCompleto": " donde podrás conocer la factibilidad y alternativas del proyecto según tus resultados de negocio esperados.",
+          "serviciosImagen": "roadmap.svg"
+        },
+        {
+          "textoNegrita": "Sistemas de inteligencia artificial",
+          "textoCompleto": " para diversas tareas como predicción, clasificación, visión computacional, procesamiento de lenguaje natural, entre otros.",
+          "serviciosImagen": "desarrollo.svg"
+        }
+      ],
+      "image": "inteligencia.svg",
+      "link": "https://datiasolutions.com/inteligencia-artificial"
+    },
+    {
+      "titulo": "Despliegue y monitoreo",
+      "subtitulo": "¿Quieres desplegar tus soluciones de IA de la forma más segura y eficiente?",
+      "descripcion": "Nuestros servicios de despliegue y monitoreo de IA te brindarán acceso en tiempo real, escalabilidad, rendimiento y seguridad. Nuestros expertos se harán cargo del proceso técnico, brindándole tranquilidad y permitiéndole centrarse en la visión y objetivos del negocio.",
+      "span": "Tenemos 2 soluciones que pueden ayudarte:",
+      "servicios": [
+        {
+          "textoNegrita": "Despliegue",
+          "textoCompleto": " que te permitirá implementar tus soluciones de IA en producción de la forma más segura, escalable y adaptable a tus necesidades.",
+          "serviciosImagen": "deploy.svg"
+        },
+        {
+          "textoNegrita": "Sistemas de monitoreo",
+          "textoCompleto": " con lo cual podrás asegurar la confiabilidad de tus sistemas de IA, tomando decisiones informadas y evitando interrupciones costosas",
+          "serviciosImagen": "modelado2.svg"
+        }
+      ],
+      "image": "modelado.svg",
+      "link": "https://datiasolutions.com/despliegue-y-monitoreo"
+    }
+  ]
