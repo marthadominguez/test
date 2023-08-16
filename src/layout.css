@@ -6,44 +6,12 @@
   padding: 0;
 }
 
-html {
-  font-size: 62.5%;
-}
-
 a {
   text-decoration: none;
 }
 
 ul {
   list-style: none;
-}
-
-body {
-  width: 100%;
-  background-color: var(--bg-color);
-}
-
-/* fuentes */
-h1,
-h2,
-h3,
-h4,
-label,
-a,
-span {
-  font-family: var(--primary-font);
-}
-
-li,
-p {
-  font-family: var(--primary-font);
-  color: var(--primary-900);
-}
-
-p {
-  line-height: 160%;
-  color: var(--primary-900);
-  font-size: var(--body-16);
 }
 
 /* sección de soluciones */
