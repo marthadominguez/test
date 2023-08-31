@@ -8,15 +8,15 @@
         {
           "textoNegrita": "Sistemas de web scraping",
           "textoCompleto": " que te permitirán recolectar información específica de sitios web de manera recurrente.",
-          "serviciosImagen": "webScraping.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/webScraping.svg"
         },
         {
           "textoNegrita": "Integración con API's",
           "textoCompleto": " para que puedas extraer los datos que necesites de aplicaciones y sistemas.",
-          "serviciosImagen": "APIs.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/APIs.svg"
         }
       ],
-      "image": "adquisicion.svg",
+      "image": "https://datiasolutions.com/wp-content/uploads/2023/08/adquisicion.svg",
       "link": "https://datiasolutions.com/adquisicion-de-datos"
     },
     {
@@ -28,14 +28,14 @@
         {
           "textoNegrita": "Limpieza de datos",
           "textoCompleto": " para que puedas comenzar a generar información valiosa gracias a reportes o analítica avanzada.",
-          "serviciosImagen": "wrangling.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/wrangling.svg"
         },
       {
         "textoNegrita": "Etiquetado de datos",
         "textoCompleto": " para que puedas comenzar a generar información valiosa gracias a reportes o analítica avanzada.",
-        "serviciosImagen": "databaseIcon.svg"
+        "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/databaseIcon.svg"
       }],
-      "image": "limpieza.svg",
+      "image": "https://datiasolutions.com/wp-content/uploads/2023/08/limpieza.svg",
       "link": "https://datiasolutions.com/limpieza-y-etiquetado"
     },
     {
@@ -47,15 +47,15 @@
         {
           "textoNegrita": "Almacenamiento en la nube",
           "textoCompleto": " para que puedas acceder a tus datos desde cualquier lugar.",
-          "serviciosImagen": "cloud.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/cloud.svg"
         },
         {
           "textoNegrita": "Almacenamiento en servidores",
           "textoCompleto": " donde tendrás un control total sobre tus datos.",
-          "serviciosImagen": "server.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/server.svg"
         }
       ],
-      "image": "almacenamiento.svg",
+      "image": "https://datiasolutions.com/wp-content/uploads/2023/08/almacenamiento.svg",
       "link": "https://datiasolutions.com/almacenamiento"
     },
     {
@@ -67,15 +67,15 @@
         {
           "textoNegrita": "Análisis de datos",
           "textoCompleto": " ya existentes, con lo cual podrás entender tus nuevos retos los cuales no son cubiertos por tus soluciones actuales.",
-          "serviciosImagen": "dashboardAct.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/dashboardAct.svg"
         },
         {
           "textoNegrita": "Visualización de datos",
           "textoCompleto": " que te permitirán visualizar y entender tus datos según tus necesidades para así tomar decisiones informadas.",
-          "serviciosImagen": "dashboardCreation.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/dashboardCreation.svg"
         }
       ],
-      "image": "visualizacion.svg",
+      "image": "https://datiasolutions.com/wp-content/uploads/2023/08/visualizacion.svg",
       "link": "https://datiasolutions.com/visualizacion"
     },
     {
@@ -87,15 +87,15 @@
         {
           "textoNegrita": "Roadmap de inteligencia artificial",
           "textoCompleto": " donde podrás conocer la factibilidad y alternativas del proyecto según tus resultados de negocio esperados.",
-          "serviciosImagen": "roadmap.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/roadmap.svg"
         },
         {
           "textoNegrita": "Sistemas de inteligencia artificial",
           "textoCompleto": " para diversas tareas como predicción, clasificación, visión computacional, procesamiento de lenguaje natural, entre otros.",
-          "serviciosImagen": "desarrollo.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/desarrollo.svg"
         }
       ],
-      "image": "inteligencia.svg",
+      "image": "https://datiasolutions.com/wp-content/uploads/2023/08/inteligencia.svg",
       "link": "https://datiasolutions.com/inteligencia-artificial"
     },
     {
@@ -107,15 +107,15 @@
         {
           "textoNegrita": "Despliegue",
           "textoCompleto": " que te permitirá implementar tus soluciones de IA en producción de la forma más segura, escalable y adaptable a tus necesidades.",
-          "serviciosImagen": "deploy.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/deploy.svg"
         },
         {
           "textoNegrita": "Sistemas de monitoreo",
           "textoCompleto": " con lo cual podrás asegurar la confiabilidad de tus sistemas de IA, tomando decisiones informadas y evitando interrupciones costosas",
-          "serviciosImagen": "modelado2.svg"
+          "serviciosImagen": "https://datiasolutions.com/wp-content/uploads/2023/08/modelado2.svg"
         }
       ],
-      "image": "modelado.svg",
+      "image": "https://datiasolutions.com/wp-content/uploads/2023/08/modelado.svg",
       "link": "https://datiasolutions.com/despliegue-y-monitoreo"
     }
   ]

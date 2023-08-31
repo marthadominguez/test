@@ -21,14 +21,14 @@ const SolucionCardMobile = ({ key, titulo, subtitulo, descripcion, span, servici
             </div>
             <div className={`card__content ${isActive ? "desplegable" : ""}`}>
                 <p>{descripcion}</p>
-                <img src={`./images/${imagen}`} className="solucion__img" alt="" />
+                <img src={imagen} className="solucion__img" alt="" />
                 <span className="title-tag">{span}</span>
                 <ul className="soluciones__lista--detallada">
                     {servicios.map((element, index) => {
                         const {textoNegrita, textoCompleto, serviciosImagen} = element
                         return (
                             <li key={index}>
-                                <img src={`./images/${serviciosImagen}`} className="solution__img" />
+                                <img src={serviciosImagen} className="solution__img" alt=""/>
                                 <p>
                                     <span className="bold__solucion">{textoNegrita}</span>
                                     {textoCompleto}

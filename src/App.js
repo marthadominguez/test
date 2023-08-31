@@ -62,14 +62,14 @@ const App = () => {
                           <h4 className="solucion__titulo">{data[activeTab].subtitulo}</h4>
                           <p>{data[activeTab].descripcion}</p>
                       </div>
-                      <img src={`./images/${data[activeTab].image}`} className="solucion__img-container" alt="Imagen decorativa" />
+                      <img src={data[activeTab].image} className="solucion__img-container" alt="Imagen decorativa" />
                   </div>
                   <span className="title-tag">{data[activeTab].span}</span>
                   <ul className="soluciones__lista--detallada">
                       {data[activeTab].servicios.map((element, index) => {
                           return (
                               <li key={index}>
-                                  <img src={`./images/${element.serviciosImagen}`} className="solution__img" alt="Imagen decorativa" />
+                                  <img src={element.serviciosImagen} className="solution__img" alt="Imagen decorativa" />
                                   <p>
                                       <span className="bold__solucion">{element.textoNegrita}</span>
                                       {element.textoCompleto}
