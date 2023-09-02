@@ -6,12 +6,20 @@
   padding: 0;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 a {
   text-decoration: none;
 }
 
 ul {
   list-style: none;
+}
+
+.soluciones-widget {
+  font-family: "Montserrat", sans-serif;
 }
 
 /* sección de soluciones */
