@@ -1,6 +1,4 @@
 import React, { useState } from 'react';
-import CircleIcon from '@mui/icons-material/Circle'
-import EastRoundedIcon from '@mui/icons-material/EastRounded';
 import SolucionCardMobile from "./components/SolucionCardMobile"
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos'
 import data from './content/data';
@@ -77,7 +75,7 @@ const App = () => {
                         <div>
                             {/* Accede a las propiedades de la solución seleccionada */}
                             <h4 className="solucion__titulo">{data[activeTab].subtitulo}</h4>
-                            <p>{data[activeTab].descripcion}</p>
+                            <p className="solucion__parrafo">{data[activeTab].descripcion}</p>
                         </div>
                         <img src={data[activeTab].image} className="solucion__img-container" alt="Imagen decorativa" />
                     </div>
