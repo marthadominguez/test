@@ -37,7 +37,7 @@ const SolucionCardMobile = ({ key, titulo, subtitulo, descripcion, span, servici
                     })}
                 </ul>
                 <span className="leer-mas">
-                    <a href={link}>LEER MÁS</a>
+                    <a href={link}>Leer más</a>
                     <ArrowForwardIosIcon className="arrow" />
                 </span>
             </div>
